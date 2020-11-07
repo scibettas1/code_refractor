@@ -19,13 +19,17 @@ Update the code in the Develop folder to ensure
  * Images have alt tags
  * CSS selectors and properties are efficient
 
-## Review
+## Repo
 
-You are required to submit the following for review:
+http://github.com - automatic!
+[GitHub](https://github.com/scibettas1/code_refractor)
 
-* The URL of the deployed application.
+## Deployed
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+http://github.com - automatic!
+[GitHub](https://scibettas1.github.io/code_refractor/)
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Screen Shot
+
+![GitHub Logo](/images/screen_shot.png)
+Format: ![Alt Text](url)
